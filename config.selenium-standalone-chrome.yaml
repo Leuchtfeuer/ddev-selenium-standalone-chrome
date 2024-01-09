@@ -1,3 +1,6 @@
+#ddev-generated
+# Remove the line above if you don't want this file to be overwritten when you run
+# ddev get-selenium-chrome
 #
 # This file comes from https://github.com/ddev/ddev-selenium-standalone-chrome
 #

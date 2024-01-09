@@ -4,11 +4,11 @@ Forked from [https://github.com/ddev/ddev-selenium-standalone-chrome](https://gi
 
 ## Install/Update
 
-1. `ddev get https://github.com/Leuchtfeuer/ddev-selenium-standalone-chrome/archive/refs/tags/0.0.1.tar.gz`, where `0.0.2.tar.gz` is the latest release.
+1. `ddev get https://github.com/Leuchtfeuer/ddev-selenium-standalone-chrome/archive/refs/tags/0.0.3.tar.gz`, where `0.0.3.tar.gz` is the latest release.
 2. `ddev restart`
 3. Optional. Update the provided .ddev/config.selenium-standalone-chrome.yaml as you see fit (and remove the #ddev-generated line). You can also just override lines in your .ddev/config.yaml
 4. Optional. Check config.selenium-standalone-chrome.yaml and docker-compose.selenium-chrome.yaml into your source control.
-5. Update by re-running `ddev get https://github.com/Leuchtfeuer/ddev-selenium-standalone-chrome/archive/refs/tags/0.0.2.tar.gz` (or the latest release).
+5. Update by re-running `ddev get https://github.com/Leuchtfeuer/ddev-selenium-standalone-chrome/archive/refs/tags/0.0.3.tar.gz` (or the latest release).
 
 ## Watching the tests
 
